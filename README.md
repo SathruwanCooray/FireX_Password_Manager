@@ -1,5 +1,7 @@
 # Password Manager [React, Tailwind CSS, AntDesign]
 
+This Password Manager is built using React for a dynamic user interface, Tailwind CSS for modern styling, and Ant Design components for enhanced functionality. It provides a secure platform for users to manage and store their passwords and sensitive information efficiently. The application ensures data security through encryption and offers a user-friendly experience with intuitive navigation and responsive design. Ideal for users seeking a reliable solution to organize and protect their digital credentials.
+
 ## PREVIEW
 [Preview Link](https://github.com/SathruwanCooray/FireX_Password_Manager/assets/150252729/4490a1a3-7592-4984-9bdf-40db39c1f3c9)
 
