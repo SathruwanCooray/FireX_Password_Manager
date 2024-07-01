@@ -45,11 +45,11 @@
  
 ## Screenshots
 
-![Website preview](https://imgur.com/BM625pn)
+![Website preview](https://github.com/SathruwanCooray/FireX_Login_System/assets/150252729/7f917cc9-291f-40a3-972a-1e22fe111ba7)
 
 *Screenshot of the Password Manager*
 
-![Website preview](https://imgur.com/ENeaOgU)
+![Website preview](https://github.com/SathruwanCooray/FireX_Login_System/assets/150252729/3538b026-9bce-4861-9a12-289877388116)
 
 *Screenshot of the Password Manager with items added*
 
