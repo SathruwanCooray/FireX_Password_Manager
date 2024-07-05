@@ -70,9 +70,9 @@ Copy
 ## Future Enhancements
 
 - Password strength indicator
-- Mobile Configuration
+- Mobile Configuration ✅
 - Option to generate strong passwords
-- Clipboard clearing after password copy
+- Clipboard password copy ✅
 - Two-factor authentication
 - Cloud sync option
 - Password sharing feature
